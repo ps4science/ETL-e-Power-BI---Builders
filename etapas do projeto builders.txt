@@ -1,0 +1,16 @@
+
+Configurar o ambiente
+import libs
+conexão de databases
+	mysql
+	mongo
+teste de conexão(+- fazer)
+iniciar o ETL
+extração baixar tabela para dataframe
+transformação de dados
+	normalização
+	criação dos schemas (draw-io)
+	covid_dim e covid_fato
+	mutas_dim e mutas_fato
+Load dos dados
+	persistir dados em csv 
