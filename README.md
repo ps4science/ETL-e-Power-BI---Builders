@@ -5,7 +5,7 @@ Esse projeto é referente ao Desafio Técnico da Builders.
 
 ## Requisitos do projeto
 
-- Construção de ETL carregando dados de banco Mysql e Django.
+- Construção de ETL carregando dados de banco MySql e MongoDB
 - Construir starschema com o output do ETL. 
 - Construir dashboard com visões pedidas.
 
