@@ -5,7 +5,7 @@ Esse projeto é referente ao Desafio Técnico da Builders.
 
 ## Requisitos do projeto
 
-- Construção de ETL carregando dados de banco MySql e MongoDB
+- Construção de ETL carregando dados de banco MySql e MongoDB.
 - Construir starschema com o output do ETL. 
 - Construir dashboard com visões pedidas.
 
@@ -18,6 +18,15 @@ Os dados só estarão disponíveis para a realização do processo seletivo da B
 - A etapa de ETL foi feita em python, com a ferramenta jupyter notebook localmente. 
 - A lista de pacotes instalados estão dispostos nas primeiras linhas.
 - Optei pelo output do csv que posteriormente será utilizado pelo dashboard para a construção das visões.
+
+## Visões do dashboard
+
+Crie um dashboard dos dados de multas e Covid (bases de dados MySql e MongoDB), no qual contenha as seguintes visões:
+
+- Visão acumulada por período. (multas e Covid)
+- Visão comparativa do período anterior. (multas e Covid)
+- Classificação por ranking do maior para o menor por tipo de multa e estado.
+- Classificação por ranking do maior para o menor por quantidade de mortes por Cidade/Estado.
 
 ## Importante
 
