@@ -1,7 +1,8 @@
-# Builders
+# Builders - Business Intelligence challenge
 
 ## Descrição
-Esse projeto é referente ao Desafio Técnico da Builders.
+Esse projeto é referente ao Desafio Técnico da Builders. O objetivo é criar um ETL para extração de dados locais da empresa disponibilizados, transformar e limpar os dados 
+e posteriormente criar um dashboard com modelagem dimensional starschema.
 
 ## Requisitos do projeto
 
@@ -34,6 +35,3 @@ Para que o Power BI leia os dados csv é necessário mudar o caminho que o Power
 Criei uma consulta nula nos dados do Power BI com o caminho dos dados.
 Para alterá-lo vá em **dados** e procure pela consulta **caminho**. Posteriormente cliquei com o botão direito e encontre **editar consulta**. 
 Posteriormente altere o caminho com o nome da pasta que está salva os arquivos csv. 
-
-
-Muito bom o desafio!! Logo nos vemos!!
